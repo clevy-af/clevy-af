@@ -1,4 +1,4 @@
-👋 Hi, I’m <b>@clevy-af</b> 💚<br>
+👋 Hi, I’m ***@clevy-af*** 💚<br>
 👀 I’m interested in Web Dev 💻<br>
 🌱 I’m currently learning github :octocat:<br>
 ### 📫 How to reach me :

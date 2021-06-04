@@ -1,6 +1,6 @@
-👋 Hi, I’m <b>@clevy-af</b><br>
-👀 I’m interested in Web Dev<br>
-🌱 I’m currently learning github<br>
+👋 Hi, I’m <b>@clevy-af</b> 💚<br>
+👀 I’m interested in Web Dev 💻<br>
+🌱 I’m currently learning github :octocat:<br>
 ### 📫 How to reach me :
 <img width=20 src="https://www.svgrepo.com/show/165266/whatsapp.svg"/> +91 9049748819
 &nbsp;&nbsp;&nbsp;
